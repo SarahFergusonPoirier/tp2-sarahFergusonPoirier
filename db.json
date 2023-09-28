@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "nom": "Test 12",
+      "description": "Description",
+      "prix": "9.99",
+      "categorie": "Test"
+    },
+    {
+      "nom": "Test 1214334",
+      "description": "ewfafdfewf",
+      "prix": "9.99",
+      "categorie": "dffdsfdf",
+      "id": 5
+    }
+  ]
+}
